@@ -1,4 +1,6 @@
 >Minify PNG using [UPNG.js](https://github.com/photopea/UPNG.js])
+## Install
+>npm install gulp-upng
 
 ## Example
 ```
