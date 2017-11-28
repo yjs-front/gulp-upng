@@ -1,0 +1,15 @@
+{
+  "name": "gulp-upng",
+  "version": "1.0.0",
+  "description": "png min use upng.js",
+  "main": "index.js",
+  "repository": "https://github.com/yjs-front/gulp-upng.git",
+  "author": "yjs-front",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "upng-js": "^2.0.0"
+  }
+}
